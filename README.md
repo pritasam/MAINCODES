@@ -1,1 +1,1 @@
-teaching the git control
+teaching the git control by pritam
